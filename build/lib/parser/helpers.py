@@ -1,5 +1,3 @@
-import json
-
 def find_data_field_id(fieldName: str, dataFieldsList: list[dict]):
     for field in dataFieldsList:
         if field["datacellar:fieldName"] == fieldName:

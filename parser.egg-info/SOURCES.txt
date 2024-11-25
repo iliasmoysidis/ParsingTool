@@ -1,7 +1,6 @@
 README.md
 setup.py
 parser/__init__.py
-parser/helpers.py
 parser/myfunctions.py
 parser.egg-info/PKG-INFO
 parser.egg-info/SOURCES.txt
